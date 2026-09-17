@@ -14,9 +14,8 @@ Suba PostgreSQL e MySQL com um clique, acompanhe o status e copie a string de co
 
 ### Instalador
 
-1. Baixe o `DevUp-0.1.0.msi` da aba Releases
-2. Instale (instalação por usuário, sem admin) e abra o DevUp pelo Menu Iniciar
-3. Clique em **Ligar** no banco que quiser usar
+1. Execute o package-exe.bat
+2. Clique em **Ligar** no banco que quiser usar
 
 ## Credenciais (fixas, ambiente local)
 
