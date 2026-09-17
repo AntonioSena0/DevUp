@@ -1,0 +1,9 @@
+target/
+installer/
+dependency-reduced-pom.xml
+.env
+*.log
+.devup/
+.idea/
+.vscode/
+.DS_Store
