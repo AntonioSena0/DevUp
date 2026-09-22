@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
     <groupId>org.devup</groupId>
     <artifactId>devup</artifactId>
-    <version>0.1.0</version>
+    <version>1.0.0</version>
     <packaging>jar</packaging>
     <properties>
         <maven.compiler.source>21</maven.compiler.source>
